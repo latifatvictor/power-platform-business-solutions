@@ -21,7 +21,7 @@ This solution replaces manual, email-based processes with a structured and autom
 ## ⚙️ Key Features
 
 - User-friendly travel request submission form  
-- Multi-stage approval workflow (e.g. Manager → Finance → HR)  
+- Multi-stage approval workflow 
 - Automated email notifications and updates  
 - Real-time request status tracking  
 - Centralised data storage using SharePoint  
