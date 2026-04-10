@@ -50,17 +50,6 @@ This solution replaces manual, email-based processes with a structured and autom
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of the following (if available):_
-
-- Request submission form  
-- Approval screen  
-- Email notification example  
-- Status tracking dashboard  
-
----
-
 ## 📈 Business Impact
 
 - Reduced reliance on email-based approvals  
