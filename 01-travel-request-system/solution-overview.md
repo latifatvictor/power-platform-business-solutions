@@ -1,24 +1,24 @@
 # Solution Overview
-## Digital Visitor Management & Check-in System
+## International Travel Request & Approval System
 
-This solution is a Power Apps and Power Automate application designed to manage visitor check-in, tracking, and check-out processes.
+This solution is a Power Apps and Power Automate application designed to digitise the submission, approval, and tracking of international travel requests.
 
 ### Core components
-- Power Apps for visitor registration and tracking  
-- SharePoint for data storage  
-- Power Automate for notifications and workflow automation  
+- Power Apps for user submission and request tracking
+- SharePoint Online for data storage
+- Power Automate for approval workflows and notifications
 
-### Key benefits
-- digitised visitor tracking  
-- improved on-site visibility  
-- enhanced security and compliance  
-- reduced manual administration  
+### Core benefits
+- replaces manual email-based travel requests
+- improves visibility into approval status
+- centralises request records
+- supports a more efficient and auditable workflow
 
-### Workflow summary
-1. Visitor is registered at reception  
-2. Host is notified automatically  
-3. Visitor is tracked while on-site  
-4. Check-out is recorded  
-5. Records are stored for audit and reporting  
+### Main workflow
+1. Employee submits request
+2. Request is stored in SharePoint
+3. Approval flow is triggered
+4. Stakeholders review and respond
+5. Status is updated and communicated back to requester
 
-This solution demonstrates practical application of low-code tools to improve business operations and security processes.
+This project demonstrates practical use of the Microsoft Power Platform to solve a real-world business process challenge.
